@@ -50,7 +50,7 @@ func romanToDecimal(romanstringrep string) (int, error) {
 			if value == lastValue {
 				run += value
 			} else if value < lastValue {
-				value += run
+				sum += run
 				run = value
 			} else {
 				// value > lastValue
