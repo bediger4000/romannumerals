@@ -20,6 +20,14 @@ In addition, note that the Roman numeral system uses subtractive notation for nu
 
 For the input XIV, for instance, you should return 14.
 
+## Build and run
+
+This is a command line program in Go.
+
+    $ go build .
+    $ ./romannumerals XIV
+    XIV -> 14
+
 ## Analysis
 
 I implemented this as a state machine of sorts,
