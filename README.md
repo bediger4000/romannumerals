@@ -63,3 +63,5 @@ The candidate could score points by noting drawbacks to whatever algorithm,
 like giving an answer for IIIIX.
 Maybe note things like that as test cases.
 
+I'm not sure how I'd rate this one,
+so "Medium" seems like an appropriate rating.
